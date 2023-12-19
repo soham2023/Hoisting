@@ -1,5 +1,5 @@
 {
-    console.log(x);
+    //console.log(a);
     let a = "Hello World!";
     console.log(a);
 }
